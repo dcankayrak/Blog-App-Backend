@@ -17,27 +17,27 @@ Projemizin bilgisayarda çalışması için proje dosyalarını indirebilirsiniz
 ---
 
 ##### Post Service API Paths
-- For Get All Posts GET localhost:8080/api/posts/
-- For Get Post By Id GET localhost:8080/api/posts/{postId}
-- For Get Post By Category Id localhost:8080/api/posts/category/{categoryId}
-- For Post A Post POST localhost:8080/api/posts/
-- For Update A Posts By Id PUT localhost:8080/api/posts/{postId}
-- For Delete A Posts DELETE localhost:8080/api/posts/{postId}
+- For Get All Posts `GET localhost:8080/api/posts/`
+- For Get Post By Id `GET localhost:8080/api/posts/{postId}`
+- For Get Post By Category Id `GET localhost:8080/api/posts/category/{categoryId}`
+- For Post A Post `POST localhost:8080/api/posts/`
+- For Update A Posts By Id `PUT localhost:8080/api/posts/{postId}`
+- For Delete A Posts `DELETE localhost:8080/api/posts/{postId}`
 
 ##### Comment Service API Paths
-- `For Get All Comment GET localhost:8080/api/comments/`
-- For Get Comment By Id GET localhost:8080/api/comments/{commentId}
-- For Get Comment By Post Id localhost:8080/api/comments/post/{postId}
-- For Post A Comment POST localhost:8080/api/comments/
-- For Update A Comment By Id PUT localhost:8080/api/comments/{commentId}
-- For Delete A Comment By Id DELETE localhost:8080/api/comments/{commentId}
+- For Get All Comment `GET localhost:8080/api/comments/`
+- For Get Comment By Id `GET localhost:8080/api/comments/{commentId}`
+- For Get Comment By Post Id `GET localhost:8080/api/comments/post/{postId}`
+- For Post A Comment `POST localhost:8080/api/comments/`
+- For Update A Comment By Id `PUT localhost:8080/api/comments/{commentId}`
+- For Delete A Comment By Id `DELETE localhost:8080/api/comments/{commentId}`
 
 ##### Category Service API Paths
-- For Get All Categories GET localhost:8080/api/categories/
-- For Get Category By Id GET localhost:8080/api/categories/{categoryId}
-- For Post A Category POST localhost:8080/api/categories/
-- For Update A Category By Id PUT localhost:8080/api/categories/{categoryId}
-- For Delete A Category By Id DELETE localhost:8080/api/categories/{categoryId}
+- For Get All Categories `GET localhost:8080/api/categories/`
+- For Get Category By Id `GET localhost:8080/api/categories/{categoryId}`
+- For Post A Category `POST localhost:8080/api/categories/`
+- For Update A Category By Id `PUT localhost:8080/api/categories/{categoryId}`
+- For Delete A Category By Id `DELETE localhost:8080/api/categories/{categoryId}`
 
 ### Projemizden alıntılar
 ---
