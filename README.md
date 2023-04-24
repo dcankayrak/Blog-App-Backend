@@ -1,4 +1,4 @@
-# Kişisel Blog Sitesi - Frontend
+# Kişisel Blog Sitesi - Backend
 🎉 Artık her yazılım geliştirici / yazılım mühendisinin kendine özel bir blog sitesi olacak.
 
 🎯 Bu projemdeki asıl amacım uzunca bir süredir backend alanında kendimi geliştirirken hep front taraflarında dönen olayları merakım üzerine reactı öğrenmem, html ve css temellerimi ve react, javascript bilgilerimi üst düzeye çıkartırken güzel bir deneyim elde etmekti. Ve böyle de oldu :)
