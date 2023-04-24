@@ -25,7 +25,7 @@ Projemizin bilgisayarda çalışması için proje dosyalarını indirebilirsiniz
 - For Delete A Posts DELETE localhost:8080/api/posts/{postId}
 
 ##### Comment Service API Paths
-- For Get All Comment GET localhost:8080/api/comments/
+- `For Get All Comment GET localhost:8080/api/comments/`
 - For Get Comment By Id GET localhost:8080/api/comments/{commentId}
 - For Get Comment By Post Id localhost:8080/api/comments/post/{postId}
 - For Post A Comment POST localhost:8080/api/comments/
